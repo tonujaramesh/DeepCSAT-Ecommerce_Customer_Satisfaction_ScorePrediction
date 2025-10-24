@@ -1,5 +1,7 @@
 # 🛒 DeepCSAT–Ecommerce Customer Satisfaction Score Prediction
 
+# 📌 Project Overview
+
 DeepCSAT is a deep learning–based regression model designed to predict Customer Satisfaction (CSAT) scores for an e-commerce platform based on customer support data.
 The project combines data cleaning, visualization, feature engineering, and model development to discover the key drivers of customer happiness and enable proactive decision-making.
 
